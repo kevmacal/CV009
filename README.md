@@ -10,3 +10,5 @@ mmm, yo que se
 12 oct 2012//Curriculum con imagen, actualizacion datos seccion educacion
 
 13 oct 2012//actualizacion datos seccion otras habilidades, cambio de nombre en la seccion otras habilidades, por otros conocimientos
+
+13 oct 2012// Actualizacion datos seccion otros conocimientos y seccion referencia. Aparentemente es el proyecto final.
